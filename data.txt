@@ -1,0 +1,7 @@
+data to capture:
+patient name/age/sex/dob *primary
+patient login *primary
+provider login *primary
+patient test results *secondary
+patient medication list *secondary
+
